@@ -1,12 +1,7 @@
 <h1 align="center">Hola 👋, soy Jonathan</h1>
-<h3 align="center">Soy un entusiasta de la tecnología en el comienzo de mi viaje en programación. Aunque soy novato en este campo, tengo un nivel intermedio en la administración de sistemas tanto en Windows como en Linux. Estoy lleno de ganas de aprender y mejorar mis habilidades.</h3>
+<h3 align="center">Soy un entusiasta de la tecnología en el comienzo de mi viaje en programación. Aunque soy novato en este campo, tengo un nivel intermedio en la administración de sistemas tanto en Windows como en Linux.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Programación Web, Dockerización y Linux**
-
-<h3 align="left">Sigueme en:</h3>
-<p align="left">
-  <!-- Add your social media links here -->
-</p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
@@ -37,4 +32,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+</p>
+
+<h3 align="left">Sigueme en:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jonathan-b-b4805a2a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio piñeiro suárez" height="30" width="40" /></a>
+</p>
 </p>
