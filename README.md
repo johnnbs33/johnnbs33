@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  📧 Email: [jonathan@zeuscloud.es](mailto:jonathan@zeuscloud.es)
+  📧 **Email:** [jonathan@zeuscloud.es](mailto:jonathan@zeuscloud.es)
 </p>
