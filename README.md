@@ -12,11 +12,15 @@
 
 ### 🚀 ¿Qué estoy haciendo actualmente?
 
-- Estoy aprendiendo **Programación Web, Dockerización y Linux** para ampliar mis habilidades.
+- Estoy aprendiendo **Programación Web, Dockerización, Linux y Python**.
+- Dispongo de varios repositorios en GitHub donde puedes ver aplicaciones desarrolladas en Python:
+  - [Aplicación 1](https://github.com/tu_usuario/repositorio1)
+  - [Aplicación 2](https://github.com/tu_usuario/repositorio2)
+  - [Aplicación 3](https://github.com/tu_usuario/repositorio3)
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+### Tecnologías que me apasionan
 
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -56,4 +60,8 @@
   <a href="https://www.linkedin.com/in/jonathan-b-b4805a2a2" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+</p>
+
+<p align="center">
+  📧 Email: [jonathan@zeuscloud.es](mailto:jonathan@zeuscloud.es)
 </p>
