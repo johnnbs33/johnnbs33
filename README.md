@@ -32,8 +32,8 @@ Soy un apasionado de la tecnología dando mis primeros pasos en el mundo de la p
 
 ## Proyectos destacados
 
-- **[Nombre del Proyecto 1](URL)**  
-  Descripción técnica breve del proyecto. Incluye funcionalidades clave y herramientas empleadas.
+- **[Buscador DOE](https://github.com/johnnbs33/Buscador-DOE)**  
+  Programa en python que realiza busquedas en el DOE, boletin oficial de la comunidad autónoma de Extremadura y notifica al correo eletrónico.
 
 - **[Nombre del Proyecto 2](URL)**  
   Proyecto que representa tu enfoque profesional y experiencia. Puede incluir automatización, despliegue, o integración de servicios.
