@@ -1,68 +1,52 @@
-<h1 align="center">Hola 👋, soy Jonathan</h1>
+# Bienvenido a mi perfil de GitHub
 
-<p align="center">
-  <strong>Soy un apasionado de la tecnología dando mis primeros pasos en el mundo de la programación.</strong>
-</p>
-
-<p align="center">
-  Aunque soy nuevo en el desarrollo de software, cuento con un nivel intermedio en la administración de sistemas en Windows y Linux.
-</p>
+Soy un apasionado de la tecnología dando mis primeros pasos en el mundo de la programación. Aunque soy nuevo en el desarrollo de software, cuento con un nivel intermedio en la administración de sistemas en Windows y Linux.
 
 ---
 
-### 🚀 ¿Qué estoy haciendo actualmente?
+## Sobre mí
 
-- Estoy aprendiendo **Programación Web, Dockerización, Linux y Python**.
-- Dispongo de varios repositorios en GitHub donde puedes ver aplicaciones desarrolladas en Python:
-  - [Aplicación 1](https://github.com/tu_usuario/repositorio1)
-  - [Aplicación 2](https://github.com/tu_usuario/repositorio2)
-  - [Aplicación 3](https://github.com/tu_usuario/repositorio3)
-
----
-
-### Tecnologías que me apasionan
-
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+- 💼 Profesional con experiencia linux, scripting y despliegue de entornos productivos.
+- 🧠 Apasionado por la resolución de problemas complejos y el aprendizaje continuo.
+- 🔒 Enfocado en soluciones seguras, mantenibles y bien documentadas.
+- 🖥️ Familiarizado con entornos Linux, integración de servicios y administración de sistemas.
 
 ---
 
-### 📫 Conecta conmigo
+## Tecnologías y herramientas
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathan-b-b4805a2a2" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+| Lenguajes               | Herramientas / Entornos |
+|------------------------|--------------------------|
+| `Python`               | Docker                   |
+| `PHP`                  | Linux                    |
+| `Bash` (Shell Scripting) | Git & GitHub              |
 
-<p align="center">
-  📧 Email: <a href="mailto:jonathan@zeuscloud.es">jonathan@zeuscloud.es</a>
-</p>
+---
 
+## Estadísticas
+
+<!-- Reemplaza TU_USUARIO con tu nombre de usuario real -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnnbs33&show_icons=true&theme=default&count_private=true)
+
+---
+
+## Proyectos destacados
+
+- **[Nombre del Proyecto 1](URL)**  
+  Descripción técnica breve del proyecto. Incluye funcionalidades clave y herramientas empleadas.
+
+- **[Nombre del Proyecto 2](URL)**  
+  Proyecto que representa tu enfoque profesional y experiencia. Puede incluir automatización, despliegue, o integración de servicios.
+
+---
+
+## Contacto
+
+Si deseas colaborar, compartir ideas o simplemente conectar, puedes encontrarme en:
+
+- 📧 Email: tuemail@ejemplo.com
+- 🔗 LinkedIn: [TuNombre](https://linkedin.com/in/tuusuario)
+
+---
+
+Gracias por visitar mi perfil.
