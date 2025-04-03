@@ -44,8 +44,8 @@ Soy un apasionado de la tecnología dando mis primeros pasos en el mundo de la p
 
 Si deseas colaborar, compartir ideas o simplemente conectar, puedes encontrarme en:
 
-- 📧 Email: tuemail@ejemplo.com
-- 🔗 LinkedIn: [TuNombre](https://linkedin.com/in/tuusuario)
+- 📧 Email: jonathan@zeuscloud.es
+- 🔗 LinkedIn: [Jonathan](https://linkedin.com/in/jonathan-b-b4805a2a2/)
 
 ---
 
