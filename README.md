@@ -1,49 +1,31 @@
-# Bienvenido a mi perfil de GitHub
+# Perfil Profesional
 
-Soy un apasionado de la tecnología dando mis primeros pasos en el mundo de la programación. Aunque soy nuevo en el desarrollo de software, cuento con un nivel intermedio en la administración de sistemas en Windows y Linux, que es mi rama fortalecida.
-
----
-
-## Sobre mí
-
-- 💼 Profesional con experiencia en linux, scripting y despliegue de entornos productivos.
-- 🧠 Apasionado por la resolución de problemas complejos y el aprendizaje continuo.
-- 🔒 Enfocado en soluciones seguras, mantenibles y bien documentadas.
-- 🖥️ Familiarizado con entornos Linux, integración de servicios y administración de sistemas.
+Administrador de sistemas con competencia técnica intermedia en entornos Windows y Linux. Actualmente ampliando capacidades hacia el desarrollo de software. Mi enfoque principal reside en la administración de servidores, el scripting y la automatización de procesos.
 
 ---
 
-## Tecnologías y herramientas
+## Áreas de Experiencia
 
-| Lenguajes               | Herramientas / Entornos |
-|------------------------|--------------------------|
-| `Python`               | Docker                   |
-| `PHP`                  | Linux                    |
-| `Bash` (Shell Scripting) | Git & GitHub              |
-
----
-
-## Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnnbs33&show_icons=true&theme=default&count_private=true)
+- **Administración de Sistemas:** Gestión y mantenimiento de entornos Linux y Windows.
+- **Automatización:** Desarrollo de scripts para tareas operativas y despliegue.
+- **Infraestructura:** Despliegue de entornos productivos e integración de servicios.
+- **Metodología:** Implementación de soluciones documentadas, seguras y mantenibles.
 
 ---
 
-## Proyectos destacados
+## Stack Tecnológico
 
-- **[Buscador DOE](https://github.com/johnnbs33/Buscador-DOE)**  
-  Programa en python que realiza busquedas en el DOE, boletin oficial de la comunidad autónoma de Extremadura y notifica al correo eletrónico.
-
-- **[Monitor PVPC](URL)**  
-  Aplicación que envía diariamente los precios del PVPC a través de notificaciones por correo electrónico.
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes de Programación** | `Python` `PHP` |
+| **Scripting & Shell** | `Bash` (Shell Scripting) |
+| **DevOps & Herramientas** | `Docker` `Git` `GitHub` |
+| **Sistemas Operativos** | `Linux` (Administración) `Windows` |
 
 ---
 
 ## Contacto
 
-Si deseas colaborar, compartir ideas o simplemente conectar, puedes encontrarme en:
+Para consultas técnicas o colaboración profesional:
 
-- 📧 [Contacto](mailto:jonathan@zeuscloud.es)
----
-
-Gracias por visitar mi perfil.
+- 📧 [jonathan@zeuscloud.es](mailto:jonathan@zeuscloud.es)
